@@ -1,21 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Mi Markmap</title>
-    <style>
-        body { font-family: sans-serif; }
-        svg { width: 100%; height: 500px; } /* Ajusta la altura según necesites */
-    </style>
-</head>
-<body>
-    <div id="markmap"></div>
-    <script src="https://unpkg.com/markmap-lib@latest/dist/browser/index.js"></script>
-    <script src="https://unpkg.com/markmap-view@latest/dist/browser/index.js"></script>
-    <script>
-        const { markmap } = window;
-        const data = `title: No/Low Code AI Specialist
+---
+title: No/Low Code AI Specialist
 Now/Low Code AI Specialist:
   colorFreezelevl:2
+---
 ## Junior
 ### Asc (0 - 1 años)
 #### Technical Skills
@@ -112,8 +99,3 @@ Now/Low Code AI Specialist:
 ### Technical (10+ años)
 #### Technical Skills
 (Similar structure, extend based on content)
-`;
-        markmap('#markmap', data);
-    </script>
-</body>
-</html>
