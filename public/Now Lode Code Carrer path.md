@@ -15,6 +15,7 @@ Now/Low Code AI Specialist:
 - Basic prompt engineering principles.
 - Understanding of data formats (JSON).
 - Eagerness to learn and adapt.
+
 #### Assessment
 - Ability to replicate simple workflows
 - Basic understanding of AI terminology.
@@ -25,6 +26,12 @@ Now/Low Code AI Specialist:
 - [ Introducción a la Inteligencia Artificial ](https://platzi.com/cursos/introduccion-ai/)
 - [Introduction to Logic and Critical Thinking](https://www.edx.org/learn/logic/duke-university-introduction-to-logic-and-critical-thinking) 
 -[No-Code Fundamentals ](https://en.visualmakers.de/fundamentals/no-code-fundamentals)
+=======
+#### Courses
+- [Introduction to Logic and Critical Thinking](https://www.edx.org/learn/logic/duke-university-introduction-to-logic-and-critical-thinking)
+- [Problem Solving and Critical Thinking Skills](https://alison.com/course/problem-solving-and-critical-thinking-skills)
+- [Critical Thinking Essentials](https://www.coursera.org/courses?query=critical%20thinking)
+>>>>>>> origin/main
 
 ### Asc Adv (1 - 2 años)
 #### Technical Skills
@@ -38,6 +45,7 @@ Now/Low Code AI Specialist:
 - Ability to create effective prompts for various AI models.
 - Understanding of vector database concepts.
 - Ability to translate business requirements into no-code solutions.
+
 #### Assessment
 - Ability to build complex workflows.
 - Understanding of API documentation.
@@ -51,6 +59,12 @@ Now/Low Code AI Specialist:
 - [Introduction to Algorithms and Data structures in C++ ](https://www.udemy.com/course/introduction-to-algorithms-and-data-structures-in-c/)
 - [No-Code Fundamentals](https://en.visualmakers.de/fundamentals/no-code-fundamentals)
 - [No-Code AI and Machine Learning Course](https://apix-drive.com/en/blog/other/no-code-ai-and-machine-learning-course-free)
+=======
+#### courses
+- [Advanced No-Code AI Automation](https://www.linkedin.com/learning/)
+- [Aspectos Básicos de la IA Generativa](https://learn.microsoft.com/es-es/training/modules/responsible-ai/)
+- [Problem-Solving & Logical Thinking](https://www.open.edu/openlearn/free-courses)
+>>>>>>> origin/main
 ## Intermediate
 ### Mid (2 - 3 años)
 #### Technical Skills
@@ -65,6 +79,7 @@ Now/Low Code AI Specialist:
 - Knowledge of vector database optimization.
 - Ability to design and implement AI solutions for complex business problems.
 - Understanding of basic software architecture.
+
 #### Assessment 
 - Ability to lead small projects.
 - Strong problem-solving and debugging skills.
@@ -101,6 +116,16 @@ Now/Low Code AI Specialist:
 - [Introduction to API and RESTful API](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-api-and-restful-api)
 - [Use Webflow to build your web design business](https://www.classcentral.com/course/udemy-use-webflow-to-build-your-web-design-busine-150658)
 - [Beginner's Guide: Use Bubble to Build an App Without Coding ](https://www.classcentral.com/course/udemy-beginners-guide-use-bubble-to-build-an-app-without-coding-68668)
+=======
+#### Courses
+- [Workflow Automation](https://www.udemy.com/course/process-street-essentials/)
+- [Data Handling](https://www.udemy.com/course/introduction-to-algorithms-and-data-structures-in-c/)
+- [No/Low-Code Platforms](https://www.classcentral.com/course/udemy-beginners-guide-use-bubble-to-build-an-app-without-coding-68668)
+
+### Ssr (3 - 4 años)
+#### Technical Skills
+(Similar structure, extend based on content)
+>>>>>>> origin/main
 
 ## Senior
 ### Sr (5 - 6 años)
@@ -152,6 +177,16 @@ Now/Low Code AI Specialist:
 - [Introduction to Natural Language Processing](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-natural-language-processing)
 - [ChatGPT for Everyone ](https://learnprompting.org/courses/chatgpt-for-everyone)
 - [Prompt Engineering for ChatGPT](https://www.mygreatlearning.com/academy/learn-for-free/courses/prompt-engineering-for-chatgpt)
+=======
+#### Courses
+- [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+- [Prompt Engineering for ChatGPT](https://www.mygreatlearning.com/academy/learn-for-free/courses/prompt-engineering-for-chatgpt)
+
+### Principal (6 - 7 años)
+#### Technical Skills
+(Similar structure, extend based on content)
+
+>>>>>>> origin/main
 ## Lead
 ### Architect (8 - 9 años)
 #### Technical Skills
@@ -195,3 +230,9 @@ Now/Low Code AI Specialist:
 - Proven ability to drive AI adoption and manage change within the organization.
 #### Courses 
 - [Artificial Intelligence](https://www.udacity.com/course/ai-for-business-leaders--nd898)
+=======
+
+### Technical (10+ años)
+#### Technical Skills
+(Similar structure, extend based on content)
+>>>>>>> origin/main
